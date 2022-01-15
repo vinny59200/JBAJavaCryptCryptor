@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption (1)/task" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption (1)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption (1)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption (1)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption (1)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption (1)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption (1)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption/task" />
+            <option value="$PROJECT_DIR$/Problems (1)/Concat positive numbers" />
+            <option value="$PROJECT_DIR$/Problems/Concat positive numbers" />
+            <option value="$PROJECT_DIR$/Topics (1)/ArrayList/Concat positive numbers" />
+            <option value="$PROJECT_DIR$/Topics (1)/ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/Topics (2)/ArrayList/Concat positive numbers" />
+            <option value="$PROJECT_DIR$/Topics (2)/ArrayList/Find the nearest number" />
+            <option value="$PROJECT_DIR$/Topics (2)/ArrayList/How to get an element by the index" />
+            <option value="$PROJECT_DIR$/Topics (2)/ArrayList/Output the list's elements" />
+            <option value="$PROJECT_DIR$/Topics (2)/ArrayList/Removing items" />
+            <option value="$PROJECT_DIR$/Topics (2)/ArrayList/The behavior of methods" />
+            <option value="$PROJECT_DIR$/Topics (2)/ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/Topics (2)/Strategy/Concrete strategies" />
+            <option value="$PROJECT_DIR$/Topics (2)/Strategy/Max and Min" />
+            <option value="$PROJECT_DIR$/Topics (2)/Strategy/Theory" />
+            <option value="$PROJECT_DIR$/Topics (2)/Template method/Template Method" />
+            <option value="$PROJECT_DIR$/Topics (2)/Template method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Creating list" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/What are collections/Accessing element of a collection" />
+            <option value="$PROJECT_DIR$/Topics/What are collections/Initialize a collection" />
+            <option value="$PROJECT_DIR$/Topics/What are collections/Processing a sequence of data" />
+            <option value="$PROJECT_DIR$/Topics/What are collections/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

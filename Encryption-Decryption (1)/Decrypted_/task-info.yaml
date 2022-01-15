@@ -1,0 +1,77 @@
+type: edu
+custom_name: Decrypted!
+files:
+- name: src/encryptdecrypt/Main.java
+  visible: true
+  text: |
+    package encryptdecrypt;
+
+    public class Main {
+        public static void main(String[] args) {
+            String msg = "we found a treasure!";
+            String alphabet = "abcdefghijklmnopqrstuvwxyz";
+            for (int i = 0; i < msg.length(); i++) {
+                String currentLetter = msg.substring(i, i + 1);
+                if (alphabet.contains(currentLetter)) {
+                    int newLetterIndex = new StringBuilder(alphabet).reverse().toString().indexOf(currentLetter);
+                    System.out.print(alphabet.substring(newLetterIndex, newLetterIndex + 1));
+                } else {
+                    System.out.print(currentLetter);
+                }
+            }
+        }
+    }
+  learner_created: false
+- name: test/EncryptDecryptTest.java
+  visible: false
+  text: |
+    import org.hyperskill.hstest.stage.StageTest;
+    import org.hyperskill.hstest.testcase.SimpleTestCase;
+
+    import java.util.List;
+
+    public class EncryptDecryptTest extends StageTest {
+
+        @Override
+        public List<SimpleTestCase> generate() {
+            return List.of(
+                new SimpleTestCase(
+                    "enc\n" +
+                        "Welcome to hyperskill!\n" +
+                        "5",
+                    "\\jqhtrj%yt%m~ujwxpnqq&"),
+                new SimpleTestCase(
+                    "enc\n" +
+                        "Hello\n" +
+                        "0",
+                    "Hello"),
+                new SimpleTestCase(
+                    "enc\n" +
+                        "012345678\n" +
+                        "1",
+                    "123456789"),
+                new SimpleTestCase(
+                    "dec\n" +
+                        "\\jqhtrj%yt%m~ujwxpnqq&\n" +
+                        "5",
+                    "Welcome to hyperskill!"),
+                new SimpleTestCase(
+                    "dec\n" +
+                        "Hello\n" +
+                        "0",
+                    "Hello"),
+                new SimpleTestCase(
+                    "dec\n" +
+                        "222233334444\n" +
+                        "1",
+                    "111122223333")
+            );
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5389#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sun, 02 Jan 2022 19:25:33 UTC
+record: 3

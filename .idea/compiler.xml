@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Encryption-Decryption.Encryption-Decryption-task.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption__1_-task-build-classes-java.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption__1_-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption__1_-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption__1_-task-build-reports-tests.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption__1_-task-build-test-results.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption__1_-task-build-tmp.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption__1_-task.main" target="11" />
+      <module name="Encryption-Decryption.Problems-Concat_positive_numbers.main" target="11" />
+      <module name="Encryption-Decryption.Problems__1_-Concat_positive_numbers.main" target="11" />
+      <module name="Encryption-Decryption.Topics-ArrayList-Creating_list.main" target="11" />
+      <module name="Encryption-Decryption.Topics-ArrayList-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-What_are_collections-Accessing_element_of_a_collection.main" target="11" />
+      <module name="Encryption-Decryption.Topics-What_are_collections-Initialize_a_collection.main" target="11" />
+      <module name="Encryption-Decryption.Topics-What_are_collections-Processing_a_sequence_of_data.main" target="11" />
+      <module name="Encryption-Decryption.Topics-What_are_collections-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics__1_-ArrayList-Concat_positive_numbers.main" target="11" />
+      <module name="Encryption-Decryption.Topics__1_-ArrayList-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics__2_-ArrayList-Concat_positive_numbers.main" target="11" />
+      <module name="Encryption-Decryption.Topics__2_-ArrayList-Find_the_nearest_number.main" target="11" />
+      <module name="Encryption-Decryption.Topics__2_-ArrayList-How_to_get_an_element_by_the_index.main" target="11" />
+      <module name="Encryption-Decryption.Topics__2_-ArrayList-Output_the_list's_elements.main" target="11" />
+      <module name="Encryption-Decryption.Topics__2_-ArrayList-Removing_items.main" target="11" />
+      <module name="Encryption-Decryption.Topics__2_-ArrayList-The_behavior_of_methods.main" target="11" />
+      <module name="Encryption-Decryption.Topics__2_-ArrayList-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics__2_-Strategy-Concrete_strategies.main" target="11" />
+      <module name="Encryption-Decryption.Topics__2_-Strategy-Max_and_Min.main" target="11" />
+      <module name="Encryption-Decryption.Topics__2_-Strategy-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics__2_-Template_method-Template_Method.main" target="11" />
+      <module name="Encryption-Decryption.Topics__2_-Template_method-Theory.main" target="11" />
+      <module name="Encryption-Decryption.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
